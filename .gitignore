@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!README.md
+!logo*
+!requirements.txt
+!/doc
+!/tests
+!/libs
+ignorer quand meme
+
+*/pycache/
